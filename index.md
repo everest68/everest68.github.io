@@ -14,4 +14,4 @@ Saga Norén ist eine fiktive Figur und die Hauptprotagonistin der dänisch-schwe
 
 > Jeder Mensch lebt noch 5 Stunden vor seinem Tod.
 
-<imgsrc="https://image.stern.de/6717732/16x9-940-529/a594dbdaee934f94ef0a95fa7f6f0e73/pS/easerfoto-sofia-helin.jpg"/>
+<img src="https://image.stern.de/6717732/16x9-940-529/a594dbdaee934f94ef0a95fa7f6f0e73/pS/easerfoto-sofia-helin.jpg"/>
