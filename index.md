@@ -10,3 +10,11 @@ Saga Norén ist eine fiktive Figur und die Hauptprotagonistin der dänisch-schwe
 * geht alles direkt und logisch an
 * strikte Einhaltung von Regeln
 * sie drückt Emotionen anders aus
+
+
+
+
+
+
+
+> Jeder Mensch lebt noch 5 Stunden vor seinem Tod.
