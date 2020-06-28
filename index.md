@@ -1,2 +1,3 @@
-# Saga Noren
+# Saga Norén
 
+Saga Norén ist eine fiktive Figur und die Hauptprotagonistin der dänisch-schwedischen Fernsehserie Die Brücke (Bron/Broen). Sie wird von der schwedischen Schauspielerin Sofia Helin gespielt. Saga wird in der ersten Episode der Serie als Mitglied der Kreispolizei Malmö vorgestellt. Sie wird mit dem Asperger-Syndrom in Verbindung gebracht, wird aber nie als Asperger-Syndrom diagnostiziert, sondern als eine brillante und hingebungsvolle Polizeiermittlerin dargestellt, die die gesellschaftlichen Normen völlig ignoriert.
